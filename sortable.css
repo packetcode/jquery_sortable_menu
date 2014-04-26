@@ -1,0 +1,30 @@
+/*** APP: JQuery Sortable Menu Demo
+	WEbsite:packetcode.com
+	Author: Krishna TEja G S
+	Date: 26th April 2014
+	***/
+	
+body{
+	background:#ecf0f1;
+}
+
+.container{
+	background:white;
+	width:300px;
+	padding:40px;
+	margin:40px auto;
+}
+
+ul{
+	padding:0px;
+	margin:0px;
+}
+li{
+	list-style-type: none;
+	padding:10px;
+	background:#16a085;
+	margin:5px;
+	color:white;
+	font-weight:bold;
+	cursor:pointer;
+}
